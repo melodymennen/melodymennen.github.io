@@ -275,7 +275,7 @@ img::-moz-selection {
   background: transparent;
 }
 
-.about-photo {
+#about img {
   height: 200px;
   width: 200px;
   border-radius: 50%;
